@@ -606,10 +606,10 @@ body:after {
   overflow: hidden;
   position: relative; }
   .site-blocks-cover .lead {
-    text-shadow: 0px 3px 5px #bebebe;
+    text-shadow: 0px 0px 15px #bebebe;
     font-family: "Arbutus Slab", serif;
     font-size: 1.3rem;
-    color: #1a1a1a; }
+    color: #fff; }
   .site-blocks-cover.overlay {
     position: relative; }
     .site-blocks-cover.overlay:before {
@@ -634,7 +634,7 @@ body:after {
     position: relative;
     z-index: 2; }
   .site-blocks-cover h1 {
-    text-shadow: 0px 3px 5px #bebebe;
+    text-shadow: 0px 0px 8px #bebebe;
     font-size: 3rem;
     font-family: "Arbutus Slab", serif; }
     @media (max-width: 667px){
