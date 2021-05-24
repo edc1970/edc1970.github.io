@@ -130,8 +130,13 @@ body:after {
       font-size: 3rem; } }
 
 .site-section .my-image {
-  border-radius: 300px;
-}
+  border-radius: 300px;}
+  @media (min-width: 768px){
+    .site-section .my-image {
+      width: 500px;
+      height: auto;
+    }
+  }
 
 .site-footer {
   padding: 4em 0;
