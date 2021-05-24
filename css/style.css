@@ -129,6 +129,10 @@ body:after {
     .site-section-heading {
       font-size: 3rem; } }
 
+.site-section .my-image {
+  border-radius: 100px;
+}
+
 .site-footer {
   padding: 4em 0;
   background: #333333; }
@@ -627,7 +631,6 @@ body:after {
     font-size: 3rem;
     font-family: "Arbutus Slab", serif; }
   .site-blocks-cover .img-face {
-    border-radius: 100px;
     position: absolute;
     right: -5%;
     bottom: 0;
