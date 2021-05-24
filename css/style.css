@@ -642,12 +642,13 @@ body:after {
     }
   .site-blocks-cover .img-face {
     position: absolute;
-    right: -5%;
+    /*right: -5%;*/
+    background-size: cover;
     bottom: 0;
     z-index: 1; }
     @media (max-width: 991.98px) {
       .site-blocks-cover .img-face {
-        right: -25%; } }
+        /*right: -25%;*/ } }
 
 .section-title {
   position: relative;
