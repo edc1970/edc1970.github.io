@@ -608,7 +608,7 @@ body:after {
   .site-blocks-cover .lead {
     font-family: "Arbutus Slab", serif;
     font-size: 1.3rem;
-    color: #fff; }
+    color: black; }
   .site-blocks-cover.overlay {
     position: relative; }
     .site-blocks-cover.overlay:before {
