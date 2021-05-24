@@ -139,6 +139,11 @@ body:after {
     }
   }
 
+.site-section .portfolio {
+  overflow: clip scroll;
+  max-height: 600px;
+}
+
 .site-footer {
   padding: 4em 0;
   background: #333333; }
