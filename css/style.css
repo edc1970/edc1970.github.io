@@ -926,3 +926,7 @@ body:after {
     color: #888888; }
     .footer a:hover {
       color: #000; }
+  .footer a.social-circle {
+    font-size: 2em;
+    padding-right: 10px;
+  }
