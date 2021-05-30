@@ -6,6 +6,8 @@
   "orientation": "portrait",
   "icons": [{
   	"src": "images/emil.jpg",
-  	"sizes": "50x50"
+  	"sizes": "50x50",
+    "type": "image/jpg",
+    "purpose": "any maskable"
   	}]
 }
