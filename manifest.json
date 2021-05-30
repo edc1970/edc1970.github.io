@@ -5,7 +5,7 @@
   "display": "browser",
   "orientation": "portrait",
   "icons": [{
-  	"src": "images/emil.jpg",
+  	"src": "particle.png",
   	"sizes": "50x50",
     "type": "image/jpg",
     "purpose": "any maskable"
